@@ -45,6 +45,4 @@ The domain layer is responsible for encapsulating complex business logic, or sim
 ## Data Source
 This application fetches its data from the [The Meal Db](https://www.themealdb.com/api.php). Find the Documentation by following this [link](https://www.themealdb.com/api.php).
 
-## Contributor(s) 🪶
 
-Take a look at the contributors for this project. 😎
