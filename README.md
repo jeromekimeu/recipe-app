@@ -1,9 +1,6 @@
 # Yummy
 A food recipes App Built with Jetpack Compose . The app uses room for local caching to facilitate offline support and follows the MVVM Clean Architectural pattern
 
-## Architecture
-<img src="/screenshots/architecture.png"  height = "350" width="460">
-
 ### 1.UI layer
 The role of the UI layer (or presentation layer) is to display the application data on the screen. Whenever the data changes, either due to user interaction (such as pressing a button) or external input (such as a network response), the UI should update to reflect the changes.
 The UI layer is made up of two things:
