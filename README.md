@@ -1,29 +1,6 @@
 # Yummy
 A food recipes App Built with Jetpack Compose . The app uses room for local caching to facilitate offline support and follows the MVVM Clean Architectural pattern
 
-<a href='http://bit.ly/3W5b4wk'><img alt='Get it on Google Play' src="./screenshots/google_badge.png" width="150"/></a>
-
-## **Screenshots**
-
-- #### Light Mode
-<img src="./screenshots/welcome_light.png" width="320">&emsp;
-<img src="./screenshots/home_light.png" width="320">&emsp;
-<img src="./screenshots/details_light.png" width="320">&emsp;
-<img src="./screenshots/details_light.png" width="320">&emsp;
-<img src="./screenshots/in_app_purchase_light.png" width="320">
-
-
-
-- #### Dark Mode
-<img src="./screenshots/welcome_dark.png" width="320">&emsp;
-<img src="./screenshots/home_dark.png" width="320">&emsp;
-<img src="./screenshots/details_dark.png" width="320">&emsp;
-<img src="./screenshots/details_dark.png" width="320">
-
-
-## Demo
-<!--<img src="/screenshots/demo.png" width="360">-->
-
 ## Architecture
 <img src="/screenshots/architecture.png"  height = "350" width="460">
 
